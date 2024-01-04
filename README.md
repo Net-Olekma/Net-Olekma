@@ -11,7 +11,7 @@
 ![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white) 
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white) 
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green) 
-https://img.shields.io/badge/dynamic/yaml
+
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Net-olekma&theme=solarized_dark)
